@@ -1,0 +1,12 @@
+{
+  "name": "microproxy",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "read-env": "^2.0.0"
+  }
+}
