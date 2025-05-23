@@ -6,6 +6,7 @@
     "start": "node app.js"
   },
   "dependencies": {
+    "dotenv": "^16.5.0",
     "http-proxy": "^1.18.1",
     "read-env": "^2.0.0"
   }

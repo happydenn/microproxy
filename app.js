@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const httpProxy = require('http-proxy');
 const { readEnv } = require('read-env');
 
